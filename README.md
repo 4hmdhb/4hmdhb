@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bayel Asylbekov</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">CS student @ UC Berkeley</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
